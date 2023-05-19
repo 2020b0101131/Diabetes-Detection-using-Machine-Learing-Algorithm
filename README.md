@@ -21,9 +21,9 @@ This study focuses on recent developments in machine learning that have h
 
 --> Summary Of Results
 
-  i) For SVM
+  i) For KNN
   ![image](https://github.com/2020b0101131/Diabetes-Detection-using-Machine-Learing-Algorithm/assets/94210609/5b341ce8-2727-4c35-a6b0-70d24239678b)
-  ii) For KNN
+  ii) For SVM
   ![image](https://github.com/2020b0101131/Diabetes-Detection-using-Machine-Learing-Algorithm/assets/94210609/7f45801c-95a0-417a-b1aa-212a61cdd3a6)
   iii) For Decision Tree
   ![image](https://github.com/2020b0101131/Diabetes-Detection-using-Machine-Learing-Algorithm/assets/94210609/a7a41911-5bac-45f4-931b-0c88c5e9c78d)
