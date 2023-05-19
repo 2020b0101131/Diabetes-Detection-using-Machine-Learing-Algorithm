@@ -21,10 +21,14 @@ This study focuses on recent developments in machine learning that have h
 
 --> Summary Of Results
 
-![image](https://github.com/2020b0101131/Diabetes-Detection-using-Machine-Learing-Algorithm/assets/94210609/5b341ce8-2727-4c35-a6b0-70d24239678b)
-![image](https://github.com/2020b0101131/Diabetes-Detection-using-Machine-Learing-Algorithm/assets/94210609/7f45801c-95a0-417a-b1aa-212a61cdd3a6)
-![image](https://github.com/2020b0101131/Diabetes-Detection-using-Machine-Learing-Algorithm/assets/94210609/a7a41911-5bac-45f4-931b-0c88c5e9c78d)
-<img width="661" alt="image" src="https://github.com/2020b0101131/Diabetes-Detection-using-Machine-Learing-Algorithm/assets/94210609/18b4ca07-730d-45ca-8c8a-7252a7db7590">
+  i) For SVM
+  ![image](https://github.com/2020b0101131/Diabetes-Detection-using-Machine-Learing-Algorithm/assets/94210609/5b341ce8-2727-4c35-a6b0-70d24239678b)
+  ii) For KNN
+  ![image](https://github.com/2020b0101131/Diabetes-Detection-using-Machine-Learing-Algorithm/assets/94210609/7f45801c-95a0-417a-b1aa-212a61cdd3a6)
+  iii) For Decision Tree
+  ![image](https://github.com/2020b0101131/Diabetes-Detection-using-Machine-Learing-Algorithm/assets/94210609/a7a41911-5bac-45f4-931b-0c88c5e9c78d)
+  * Confusion Matrices
+  <img width="661" alt="image" src="https://github.com/2020b0101131/Diabetes-Detection-using-Machine-Learing-Algorithm/assets/94210609/18b4ca07-730d-45ca-8c8a-7252a7db7590">
 
 --> Conclusion
 
